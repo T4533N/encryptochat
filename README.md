@@ -1,6 +1,6 @@
 # Utilizing Public-Key Cryptography
 
-## Open Cryptochat -
+## EncryptoChat -
 
 Cryptography is important. Without encryption, the internet as we know it would not be possible - data sent online would be as vulnerable to interception as a message shouted across a crowded room. Cryptography is also a major topic in current events, increasingly playing a central role in [law enforcement investigations](https://en.wikipedia.org/wiki/FBI%E2%80%93Apple_encryption_dispute) and [government legislation](https://www.politico.com/tipsheets/morning-cybersecurity/2017/11/10/texas-shooting-could-revive-encryption-legislation-223290).
 
@@ -17,7 +17,7 @@ Encryption is an invaluable tool for journalists, activists, nation-states, busi
 This app is 100% open-source, feel free to utilize the code however you would like.
 
 - Live Preview - http://vue-crypto-chat.herokuapp.com/
-- Github Repository - https://github.com/taseentanvir/encryptochat
+- Github Repository - https://github.com/taseentanvir/EncryptoChat
 
 ```
 The MIT License (MIT)
